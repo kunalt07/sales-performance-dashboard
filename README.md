@@ -10,7 +10,7 @@ The dashboard empowers management to track KPIs, visualize patterns, and identif
 ## 🗂️ Dataset Overview
 
 ### 📘 Data Source
-- **File Name:** `Sample - Superstore.xls`
+- **File Name:** `Superstore Dataset.csv`
 - **Source:** Superstore dataset (a commonly used sample data by Tableau/Power BI).
 - **Format:** Excel (.xls)
 - **Rows:** ~10,000 records
@@ -119,11 +119,3 @@ The dashboard empowers management to track KPIs, visualize patterns, and identif
 - Integrate customer segmentation clustering using Python.
 - Automate KPI reporting using Power Automate.
 
----
-
-## 👤 Author
-**Kunal Tigga**
-<br>_MBA in Business Analytics | Power BI & Data Analytics Enthusiast_
-<br>📍 Bengaluru, India
-<br>🔗 **LinkedIn:** [linkedin.com/in/your-profile-url](https://www.linkedin.com/in/your-profile-url)
-<br>📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
