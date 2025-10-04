@@ -1,7 +1,7 @@
 # 📊 Business Intelligence Dashboard for Sales Performance Analysis
 
 ## 🧾 Project Overview
-This Power BI dashboard analyzes sales performance and profitability using the **Sample Superstore dataset**. It offers deep insights into **sales trends, regional performance, product profitability, and customer behavior**, helping businesses make informed strategic and operational decisions.
+This Power BI dashboard analyzes sales performance and profitability using the ** Superstore dataset**. It offers deep insights into **sales trends, regional performance, product profitability, and customer behavior**, helping businesses make informed strategic and operational decisions.
 
 The dashboard empowers management to track KPIs, visualize patterns, and identify growth opportunities across multiple business dimensions.
 
