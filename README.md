@@ -57,4 +57,4 @@ Relationships were established using a star schema to optimize report performanc
 **Kunal Tigga**  
 _MBA Business Analytics Graduate_  
 📍 Bengaluru, India  
-📧 [Add your email or LinkedIn link]
+📧 kunaltigga007@gmail.com
